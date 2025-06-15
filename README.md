@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-一款智能爬取GitHub上Clash订阅链接的图形界面工具，模拟真实用户行为绕过限制，高效获取有效订阅配置。
+一款智能爬取GitHub上Clash订阅链接的图形界面工具，模拟真实用户行为绕过限制，高效获取有效订阅配置。（无效ing~~）
 
 ## 功能特点
 
