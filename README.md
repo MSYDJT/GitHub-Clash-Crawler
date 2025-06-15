@@ -5,8 +5,6 @@
 
 一款智能爬取GitHub上Clash订阅链接的图形界面工具，模拟真实用户行为绕过限制，高效获取有效订阅配置。
 
-![应用截图](assets/app_screenshot.png)
-
 ## 功能特点
 
 - 🕵️‍♂️ **智能爬取引擎**：模拟真实用户浏览行为，避免被封禁
@@ -61,17 +59,6 @@ python github_clash_crawler.py
 默认设置已优化避免被封禁
 如遇验证页面，爬取会自动跳过
 建议每次爬取间隔至少30分钟
-
-贡献指南
-欢迎贡献！请按以下步骤操作：
-Fork项目仓库
-创建特性分支 (git checkout -b feature/AmazingFeature)
-提交更改 (git commit -m 'Add some AmazingFeature')
-推送到分支 (git push origin feature/AmazingFeature)
-创建Pull Request
-
-许可证
-本项目采用 MIT 许可证
 
 免责声明
 本工具仅用于技术研究和学习目的。使用者应遵守相关法律法规，自行承担使用风险。开发者不对任何滥用行为负责。
