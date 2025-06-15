@@ -39,48 +39,39 @@ python github_clash_crawler.py
 使用指南
 
 设置参数：
-```bash
 调整"搜索页数"（建议3-5页）
 设置"最大仓库数"（建议10-20个）
 开始爬取：
 点击"开始爬取"按钮
 等待爬取完成（可能需要5-15分钟）
-```
+
 操作结果：
-```bash
 选择链接后使用"复制"、"打开"或"测试"按钮
 点击"保存结果"将链接保存到文件
 查看"统计信息"了解爬取详情
-```
+
 注意事项
 
-
 合法使用：
-```bash
 遵守GitHub的服务条款
 尊重robots.txt规则
 不要过度请求，避免给GitHub服务器造成负担
-```
 
 爬取策略：
-```bash
 默认设置已优化避免被封禁
 如遇验证页面，爬取会自动跳过
 建议每次爬取间隔至少30分钟
-```
 
 贡献指南
-```bash
 欢迎贡献！请按以下步骤操作：
 Fork项目仓库
 创建特性分支 (git checkout -b feature/AmazingFeature)
 提交更改 (git commit -m 'Add some AmazingFeature')
 推送到分支 (git push origin feature/AmazingFeature)
 创建Pull Request
-```
+
 许可证
-```bash
 本项目采用 MIT 许可证
+
 免责声明
 本工具仅用于技术研究和学习目的。使用者应遵守相关法律法规，自行承担使用风险。开发者不对任何滥用行为负责。
-```
